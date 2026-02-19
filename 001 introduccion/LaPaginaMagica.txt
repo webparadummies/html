@@ -1,0 +1,13 @@
+La página mágica
+
+Inicio
+
+Había una vez un grupo de estudiantes que descubrieron un mundo nuevo: el de las páginas web. Al abrir su primer archivo HTML, se sintieron como exploradores frente a un mapa en blanco, listos para dibujar su historia digital.
+
+Nudo
+
+Mientras aprendían, se dieron cuenta de que cada página tenía una estructura especial. Poco a poco, entendieron que cada etiqueta era una pieza que daba orden y sentido a su cuento.
+
+Desenlace
+
+Al final, lograron transformar un simple texto en una página web organizada y clara. Descubrieron que el HTML no era complicado: era como contar un cuento, pero con etiquetas que daban forma a cada parte. Así nació su primera página mágica, y con ella, la certeza de que podían construir futuros increíbles en la web.
