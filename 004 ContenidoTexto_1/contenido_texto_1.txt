@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Contenido Texto 1</title>
+</head>
+<body>
+
+    
+    Gabriel García Márquez
+    Breve descripción
+
+    
+    
+        Gabriel García Márquez fue un escritor colombiano, considerado 
+        uno de los más influyentes del siglo XX. 
+        Su obra más famosa es Cien años de soledad, 
+        que lo convirtió en referente mundial del realismo mágico.
+    
+
+    
+    Obras destacadas
+    
+        Cien años de soledad
+        El amor en los tiempos del cólera
+        Crónica de una muerte anunciada
+    
+
+    
+    Premios importantes
+    
+        Premio Rómulo Gallegos (1972)
+        Premio Nobel de Literatura (1982)
+        Premio Internacional Neustadt (1972)
+    
+
+    
+    Cita célebre
+    
+        "La vida no es la que uno vivió, sino la que uno recuerda 
+        y cómo la recuerda para contarla."
+        — Gabriel García Márquez
+    
+
+    
+    Cita breve
+    García Márquez dijo: El corazón tiene más cuartos que un hotel
+
+</body>
+</html>
